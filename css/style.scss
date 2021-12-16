@@ -1,0 +1,22 @@
+#accordion{
+    text-align: center;
+    button{
+        width: 100%;
+    }
+    p{
+        display: none;
+    }
+}
+
+// ============= 
+
+#tabMenu{
+    .tabContent{
+        p{
+            display: none;
+            &:first-child {
+                display: block;
+            }
+        }
+    }
+}

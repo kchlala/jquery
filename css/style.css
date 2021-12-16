@@ -1,0 +1,20 @@
+#accordion {
+  text-align: center;
+}
+
+#accordion button {
+  width: 100%;
+}
+
+#accordion p {
+  display: none;
+}
+
+#tabMenu .tabContent p {
+  display: none;
+}
+
+#tabMenu .tabContent p:first-child {
+  display: block;
+}
+/*# sourceMappingURL=style.css.map */
